@@ -1,0 +1,20 @@
+# Carpetas y archivos generados por ROS
+build/
+devel/
+install/
+log/
+.catkin_workspace
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Sistemas
+.DS_Store
+
+# Binarios y objetos
+*.o
+*.so
+CMakeCache.txt

@@ -16,5 +16,7 @@
 > 
 > sudo bash # Entas como root
 > source devel/setup.bash # Ejecutar programas compilados
-> sudo chmod 666 /dev/ttyUSB0 # Se abre el puerto 
+> 
+> sudo chmod 666 /dev/ttyUSB0 # Se abre el puerto
+> 
 > roslaunch op2_manager op2_manager.launch # Se ejecuta el manager para usar los motores
